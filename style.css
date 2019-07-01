@@ -1,0 +1,15 @@
+#html {
+  background-color: black;
+}
+
+#workspace {
+  width: 100%
+}
+
+#line-number {
+  float: left;
+}
+
+#code-area {
+  float: right;
+}
